@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Pong &amp; Brek Out</string>
+
+    <!-- Pong game -->
+    <string name="pong_score">Score: </string>
+
+    <!-- Game menu string resources -->
+    <string name="game_left_arrow">&lt;</string>
+    <string name="game_right_arrow">&gt;</string>
+    <string name="game_left_activity">View Statistics</string>
+    <string name="game_right_activity">Change Settings</string>
+    <string name="game_button_new_pong">New Pong Game</string>
+    <string name="game_button_new_pong_onclick">startGame</string>
+    <string name="game_button_new_brek">New Brek Game</string>
+    <string name="game_button_resume">Resume Game</string>
+    <string name="game_button_tut">Tutorial</string>
+    <string name="game_left_text_tap_action">gameGotoStats</string>
+    <string name="game_right_text_tap_action">gameGotoSettings</string>
+
+    <!-- Settings menu string resources TODO -->
+    <string name="settings_paddle_color_label">Paddle Color: </string>
+    <string name="settings_background_color_label">Background: </string>
+    <string name="settings_ball_color_label">Ball Color: </string>
+
+    <!-- Statistics menu string resources TODO -->
+    <string name="stats_play_time_label">Total play time: </string>
+    <string name="stats_games_played_label">Number of Games: </string>
+    <string name="stats_high_score_label">High Score: </string>
+    <string name="stats_favorite_color">Favorite Color: </string>
+    <string name="stats_title">Statistics</string>
+
+    <!-- Color Selection Activity Resources -->
+    <string name="title_activity_color_selection">Color Selection</string>
+
+</resources>
